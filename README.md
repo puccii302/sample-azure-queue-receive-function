@@ -1,0 +1,1 @@
+# sample-azure-queue-receive-function
